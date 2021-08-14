@@ -1,6 +1,6 @@
 ﻿/********************************************************************************
 *File name:main.c
-*Author:陈明曦
+*Author:omnipotent13
 *Version:1.0
 *Date:2020.12.30
 *Debug Environment:vs2019
